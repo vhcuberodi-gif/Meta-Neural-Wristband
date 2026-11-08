@@ -16,7 +16,6 @@ body {
 }
 
 header {
-    position: sticky;
     top: 0;
     background-color: #1e293b;
     color: #ffffff;
